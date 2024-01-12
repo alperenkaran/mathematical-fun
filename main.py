@@ -15,7 +15,7 @@ def main():
     lissajous_curve.plot(filename='lissajous_curve.png')
 
     sierpinski_triangle = SierpinskiTriangle(1500, corners=[(0, 0), (2, 0), (1, 1)])
-    sierpinski_triangle.plot(save=True, filename='sierpinski_triangle.png')
+    sierpinski_triangle.plot(filename='sierpinski_triangle.png')
 
 
 if __name__ == "__main__":
