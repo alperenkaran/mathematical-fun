@@ -5,7 +5,7 @@ There are lots of interesting shapes in mathematics, let's visualize them.
 
 ## Usage
 
-1. Make sure you have numpy and matplotlib installed.
+1. Make sure you have python, numpy and matplotlib installed.
 2. Run `main.py` and create some plots.
 
 ## Sample Plots
