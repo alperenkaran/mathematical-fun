@@ -15,4 +15,3 @@ class ButterflyCurve(MathematicalObject):
 
         points = np.column_stack((x_values, y_values))
         return points
-
